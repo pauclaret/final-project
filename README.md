@@ -1,6 +1,6 @@
 # Happiness Around the World: A Tableau Visualization Project 🌎
 
-This project aims to explore the data related to happiness in different countries of the world, as well as other metrics like GDP per capita, exercise, weather, and more. Tableau was used to create interactive visualizations that allow users to analyze and explore the data in depth. The visualizations in this project are available at this Tableau Public link 🤗.
+This project aims to explore the data related to happiness in different countries of the world, as well as other metrics like GDP per capita, exercise, weather, and more. Tableau was used to create interactive visualizations that allow users to analyze and explore the data in depth. The visualizations in this project are available at this <a href="https://public.tableau.com/app/profile/pauclaret/viz/happiness_16815247750640/felicidad">Tableau Public link</a> 🤗.
 
 # Data 🔢
 The data folder contains various datasets:
